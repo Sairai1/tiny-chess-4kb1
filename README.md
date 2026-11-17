@@ -12,6 +12,6 @@ A 4 KB Python chess engine: 0x88 board, negamax with alpha-beta, iterative deepe
 python3 main.py
 ```
 
-The engine talks to the trial environment at `MAKEFUN_ENV_URL` (UCI moves over HTTP). `main.py` is the kit-compressed entrypoint (3,339 bytes); the readable source it was packed from is `min.py`.
+The engine talks to the trial environment at `MAKEFUN_ENV_URL` (UCI moves over HTTP). `main.py` is the kit-compressed entrypoint (4,078 bytes); the readable source it was packed from is `src.py`.
 
 <sub>Entered on [make.fun](https://make.fun/?ref=y1av4gx4&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
